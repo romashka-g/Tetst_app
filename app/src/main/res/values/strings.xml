@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Tetst_app_for git</string>
+    <string name="button">Button</string>
 </resources>
